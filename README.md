@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hey! I am a Software Engineering & Business Management student with a strong interest in full-stack systems, backend architecture, and building products that solve real problems
-
 ---
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_youssefe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-elshafei) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yelshafe2006@gmail.com) 
 
