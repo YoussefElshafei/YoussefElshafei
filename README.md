@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hey! I am a Software Engineering & Business Management student with a strong interest in full-stack systems, backend architecture, and building products that solve real problems
 
-[![](https://visitcount.itsvg.in/api?id=YoussefElshafei&icon=0&color=0)](https://visitcount.itsvg.in)****
-
 ---
 
 ## 🌐 Socials:
