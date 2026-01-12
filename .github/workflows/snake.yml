@@ -1,25 +1,30 @@
-name: Generate Snake
+name: Generate GitHub Contribution Snake
 
 on:
+  workflow_dispatch:        # manual trigger
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # run every 12 hours
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub contribution snake
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate dark green snake
         uses: Platane/snk@v3
         with:
           github_user_name: YoussefElshafei
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=%23006400
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit and push to output branch
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update GitHub contribution snake" || echo "No changes to commit"
+          git push origin HEAD:output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
