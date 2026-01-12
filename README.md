@@ -48,3 +48,7 @@
 
 **BridgeAid — Disaster Response Platform**  
 ![BridgeAid Demo](./assets/bridgeaid-demo.gif)
+
+---
+
+![snake gif](https://github.com/YoussefElshafei/YoussefElshafei/blob/output/github-snake-dark.svg)
