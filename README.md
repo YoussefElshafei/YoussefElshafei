@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Software Engineering & Business Management student at McMaster University with a strong interest in full-stack & backend systems.  
+💡 &nbsp;Software Engineering & Business Management student at McMaster University with an interest in full-stack & backend systems.  
 🚀 &nbsp;Passionate about building scalable, product-driven software that solves real-world problems.  
 🌱 &nbsp;Continuously exploring new technologies across systems design, web development, and cloud-based solutions.
 
