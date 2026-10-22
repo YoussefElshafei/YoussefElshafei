@@ -2,11 +2,11 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Youssef -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### &nbsp;About Me
 
-💡 &nbsp;Software Engineering & Business Management student at McMaster University with an interest in full-stack & backend systems.  
-🚀 &nbsp;Passionate about building scalable, product-driven software that solves real-world problems.  
-🌱 &nbsp;Continuously exploring new technologies across systems design, web development, and cloud-based solutions.
+ &nbsp;Software Engineering & Business Management student at McMaster University with an interest in full-stack & backend systems.  
+ &nbsp;Passionate about building scalable, product-driven software that solves real-world problems.  
+ &nbsp;Continuously exploring new technologies across systems design, web development, and cloud-based solutions.
 
 
 
